@@ -1,0 +1,90 @@
+SIGN-weight_SIGN wfspm 0.05 322158 459883 571352
+SIGN-weight_SIGN wfspm 0.10 33234 51596 81244
+SIGN-weight_SIGN wfspm 0.15 7644 12822 35676
+SIGN-weight_SIGN wfspm 0.20 2457 4448 27488
+SIGN-weight_SIGN wfspm 0.25 912 1856 24636
+SIGN-weight_SIGN wfspm 0.30 389 852 24040
+SIGN-weight_SIGN wfspm 0.35 185 435 23652
+SIGN-weight_SIGN wfspm 0.40 84 232 23620
+SIGN-weight_SIGN wfspm 0.45 44 126 23112
+SIGN-weight_SIGN wfspm 0.50 23 74 22760
+SIGN-weight_SIGN iua 0.05 322158 980836 616840
+SIGN-weight_SIGN iua 0.10 33234 111677 83640
+SIGN-weight_SIGN iua 0.15 7644 28153 34048
+SIGN-weight_SIGN iua 0.20 2457 9886 24320
+SIGN-weight_SIGN iua 0.25 912 4145 20916
+SIGN-weight_SIGN iua 0.30 389 1975 20544
+SIGN-weight_SIGN iua 0.35 185 1001 19700
+SIGN-weight_SIGN iua 0.40 84 528 19592
+SIGN-weight_SIGN iua 0.45 44 302 19640
+SIGN-weight_SIGN iua 0.50 23 173 19544
+SIGN-weight_SIGN wspan 0.05 322158 1785484 616860
+SIGN-weight_SIGN wspan 0.10 33234 220521 83552
+SIGN-weight_SIGN wspan 0.15 7644 59065 33984
+SIGN-weight_SIGN wspan 0.20 2457 21898 24152
+SIGN-weight_SIGN wspan 0.25 912 9718 21012
+SIGN-weight_SIGN wspan 0.30 389 4802 20432
+SIGN-weight_SIGN wspan 0.35 185 2611 19840
+SIGN-weight_SIGN wspan 0.40 84 1469 19540
+SIGN-weight_SIGN wspan 0.45 44 875 19592
+SIGN-weight_SIGN wspan 0.50 23 530 19464
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.01.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.01 78029 93461 192664
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.03.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.03 5661 7076 101348
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.05.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.05 1593 2044 98388
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.07.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.07 699 902 96564
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.09.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.09 351 483 94120
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.11.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.11 221 286 94316
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.13.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.13 129 187 93944
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.15.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.15 93 124 90708
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.17.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.17 67 92 90796
+output/wfspm/pickle/LEVIATHAN-weight_LEVIATHAN_0.19.pickle
+LEVIATHAN-weight_LEVIATHAN wfspm 0.19 47 73 90600
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.01.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.01 78029 182162 194844
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.03.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.03 5661 13574 76492
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.05.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.05 1593 3930 70432
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.07.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.07 699 1690 69532
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.09.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.09 351 893 68276
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.11.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.11 221 546 68352
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.13.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.13 129 333 67112
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.15.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.15 93 238 67224
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.17.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.17 67 167 66960
+output/iua/pickle/LEVIATHAN-weight_LEVIATHAN_0.19.pickle
+LEVIATHAN-weight_LEVIATHAN iua 0.19 47 116 65424
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.01.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.01 78029 349409 194488
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.03.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.03 5661 26912 74300
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.05.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.05 1593 7941 68008
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.07.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.07 699 3521 67192
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.09.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.09 351 1862 66884
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.11.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.11 221 1127 66248
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.13.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.13 129 739 66120
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.15.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.15 93 523 66024
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.17.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.17 67 366 64892
+output/wspan/pickle/LEVIATHAN-weight_LEVIATHAN_0.19.pickle
+LEVIATHAN-weight_LEVIATHAN wspan 0.19 47 281 65044
